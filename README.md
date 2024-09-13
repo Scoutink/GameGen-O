@@ -8,7 +8,7 @@ It is the first diffusion transformer model tailored for the generation of open-
 [Xuanhua He*](https://xuanhuahe.github.io/),
 [Quande Liu✉](https://liuquande.github.io/),
 [Shengju Qian](http://thesouthfrog.com/about.me/),
-Cheng Jin,
+[Cheng Jin](https://academic.peterkam.top/),
 [Xin Wang✉](https://scholar.google.com/citations?user=2Z1GJ50AAAAJ&hl=zh-CN),
 [Hao Chen✉](https://cse.hkust.edu.hk/~jhc/),
 
